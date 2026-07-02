@@ -13,12 +13,12 @@
 |   |             |                    |                          |   |  |                          |
 </pre>
 
-========================================= <br>
+============================================ <br>
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hidayatullohnoor@gmail.com.com?subject=)
 [![Instagram](https://img.shields.io/badge/Instagram-CA377D?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/noor_hidayatulloh)
 [![Threads](https://img.shields.io/badge/Threads-404040?style=for-the-badge&logo=threads&logoColor=white)](https://www.threads.com/noor_hidayatulloh)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://www.t.me/noorhidayatulloh)
 <br>
-========================================= <br>
+============================================ <br>
 
 ![](https://komarev.com/ghpvc/?username=DarkLocuts&color=green&label=Views)
