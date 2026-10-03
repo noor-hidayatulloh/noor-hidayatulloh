@@ -20,5 +20,3 @@
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://www.t.me/noorhidayatulloh)
 <br>
 ============================================== <br>
-
-![](https://komarev.com/ghpvc/?username=DarkLocuts&color=green&label=Views)
